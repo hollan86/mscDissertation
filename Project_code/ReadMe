@@ -1,0 +1,5 @@
+HOW TO USE
+The following points should be taken into account before using the code
+1. All files within the genetic_algorithms and ga_module folders should be copied to the mj-1.14-src folder
+2. The functions of the genetic algorithms are written at the top within each file.
+3. Descriptions about the ga_player module and the genetic algorithms can also be found in the report
